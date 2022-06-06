@@ -1,4 +1,4 @@
-# Project-2
+# Air Quality ETL
 
 ## Team Members: Michael Raines, Zane Zmola, Gabriella Burns, Lekh Malla
 
